@@ -1,0 +1,21 @@
+package com.visa.prj.dao;
+
+import java.util.List;
+
+import com.visa.prj.entity.Product;
+
+public class ProductDaoJdbcImpl implements ProductDao {
+
+	@Override
+	public int addProduct(Product p) throws PersistenceException {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public List<Product> getProducts() throws FetchException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

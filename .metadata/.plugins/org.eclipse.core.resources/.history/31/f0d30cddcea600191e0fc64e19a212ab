@@ -1,0 +1,8 @@
+package com.visa.prj.dao;
+
+public class DbUtil {
+	private static String DRIVER = Dbconfig.getString("DRIVER"); //$NON-NLS-1$
+	private static String URL = Dbconfig.getString("URL"); //$NON-NLS-1$
+	private static String USER = Dbconfig.getString("USER"); //$NON-NLS-1$
+	private static String PWD = Dbconfig.getString("PWD"); //$NON-NLS-1$
+}

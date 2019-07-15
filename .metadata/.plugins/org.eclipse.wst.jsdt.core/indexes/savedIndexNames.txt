@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/root/eclipse-training-workspace-week2/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2296159527.index
+639980515.index
+2009231662.index
+2391269305.index
+2502910885.index
+2642270519.index
+802104097.index
