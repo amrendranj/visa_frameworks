@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
 <typeInfo handle="=productapp/src\/main\/java&lt;com.visa.prj.dao{ProductDao.java[ProductDao" modifiers="513" timestamp="1563173583887"/>
+<typeInfo handle="=orderapp/\/root\/.m2\/repository\/org\/hibernate\/javax\/persistence\/hibernate-jpa-2.1-api\/1.0.0.Final\/hibernate-jpa-2.1-api-1.0.0.Final.jar&lt;javax.persistence(EntityManager.class[EntityManager" modifiers="1537" timestamp="1563345688314"/>
 </typeInfoHistroy>

@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/root/eclipse-training-workspace-week2"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
