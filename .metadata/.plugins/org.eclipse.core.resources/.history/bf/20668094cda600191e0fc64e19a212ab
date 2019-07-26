@@ -1,9 +1,0 @@
-package com.visa.prj.dao;
-
-public class Dbutil {
-
-	public Dbutil() {
-		// TODO Auto-generated constructor stub
-	}
-
-}
